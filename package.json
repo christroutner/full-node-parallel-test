@@ -1,0 +1,22 @@
+{
+  "name": "full-node-parallel-test",
+  "version": "1.0.0",
+  "description": "Demonstrates issues with making parallel requests to a BCH full node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/full-node-parallel-test.git"
+  },
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christroutner/full-node-parallel-test/issues"
+  },
+  "homepage": "https://github.com/christroutner/full-node-parallel-test#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
